@@ -4,7 +4,7 @@ Crie um algoritmo genético para achar o mínimo da função Ackley no intervalo
 
 #### Função Ackley
 
-FORMULA
+![grafico](https://github.com/cesbrandao/algoritmoGenetico_Scilab/blob/master/img/ackley.PNG)
 
 Obs. É utilizado o método de seleção por torneios.
 
