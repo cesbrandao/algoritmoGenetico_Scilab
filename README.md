@@ -8,4 +8,6 @@ Crie um algoritmo genético para achar o mínimo da função Ackley no intervalo
 
 Obs. É utilizado o método de seleção por torneios.
 
+Obs2. Tamanho da população igual a 100 e 70 gerações.
+
 O código tem como saída o mínimo para a função e os valores de x e y do menor valor de f(x,y).
